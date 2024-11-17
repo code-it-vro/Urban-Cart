@@ -1,7 +1,7 @@
 
 # `Urban Cart - Your Ultimate Online Shopping Experience`
 
-**Welcome to Urban Cart, your one-stop destination for online shopping. With a seamless user interface and an array of products**
+**Urban Cart is a single-page shopping demo designed to highlight the power of Redux Toolkit for state management. The app allows you to browse items, add them to your cart, adjust item quantities, and see real-time updates to the total item count and payable amount—all without reloading the page.**
 
 ### `Website Link`
 
